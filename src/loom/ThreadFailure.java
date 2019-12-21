@@ -1,3 +1,5 @@
+package loom;
+
 public class ThreadFailure {
 
     public static void main(String[] args) {

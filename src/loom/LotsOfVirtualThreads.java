@@ -1,3 +1,5 @@
+package loom;
+
 public class LotsOfVirtualThreads {
 
     public static void main(String[] args) throws InterruptedException {
